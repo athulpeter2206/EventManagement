@@ -242,7 +242,7 @@
     .container-b{
 
         padding: 10px;
-        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        /* background: linear-gradient(135deg, #71b7e6, #9b59b6); */
     }
 </style>
 </html>

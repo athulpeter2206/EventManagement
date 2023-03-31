@@ -71,7 +71,8 @@
     <section id="registerForm" class="wow fadeIn">
       <div class="container container-b">
         <div class="section-header">
-        <h2>Welcome User {{$userName}}</h2>
+        <h1>Register Event Success, Our Representative will Contact you within 24hrs</h1>
+        <h2>Welcome User</h2>
           <h2>Register Event</h2>
           <p>Registration for Event</p>
         </div>
@@ -114,26 +115,13 @@
                             </div>
                             <div class="col-lg-6">
                             <label for="">User Id:</label>
-                              <select name="userId" id="" class="form-control">
-                                <option value={{$userId}}>{{$userId}}</option>
-                              </select>
-                              <!-- <input type="text" name="userId" value={{$userId}} class="form-control" disabled></input> -->
+                                <input type="text" name="eventDate" class="form-control" required>
                             </div>
                             </div>
                         </div><br>
                         <div class="row">
 
                         </div>
-                        <!-- <div class="row">
-                            <div class="col-lg-6">
-                                <label for="">Password:</label>
-                                <input type="password" name="passwordtxt" class="form-control" required>
-                            </div>
-                            <div class="col-lg-6">
-                                <label for="">Retype-Password:</label>
-                                <input type="password" name="repasswordtxt" class="form-control" required>
-                            </div>
-                        </div> -->
                         <br>
                         <input type="submit" name="submitBtn" value="submit" class="btn btn-primary btn-block btn-lg">
                     </form>

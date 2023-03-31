@@ -50,7 +50,7 @@
           <!-- <li><a href="index.html#schedule">Schedule</a></li> -->
           <!-- <li><a href="index.html#venue">Venue</a></li> -->
           <li><a href="index.html#hotels">Hotels</a></li>
-          <li><a href="index.html#gallery">Gallery</a></li>
+          <!-- <li><a href="index.html#gallery">Gallery</a></li> -->
           <!-- <li><a href="index.html#supporters">supporters</a></li> -->
           <!-- <li  class="menu-active"><a href="index.html#contact">Book Event</a></li> -->
           <li class="menu-active"><a href="{{ url('/bookEvent') }}">Book Event</a></li>
@@ -106,9 +106,9 @@
                             <div class="col-lg-6">
                                 <label for="">Gender:</label><br>
                                 <select name="genderOption" id="" class="form-control">
-                                    <option value="">Male</option>
-                                    <option value="">FeMale</option>
-                                    <option value="">Others</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                    <option value="Others">Others</option>
                                 </select>
                             </div>
                         </div><br>
@@ -236,7 +236,7 @@
     .container-b{
 
         padding: 10px;
-        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        /* background: linear-gradient(135deg, #71b7e6, #9b59b6); */
     }
 </style>
 </html>

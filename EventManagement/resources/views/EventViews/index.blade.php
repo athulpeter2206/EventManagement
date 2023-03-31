@@ -119,33 +119,19 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
         <div class="row">
           <div class="col-lg-4 col-md-5">
             <div class="speaker">
-              <img src="img/speakers/ConferenceImg.jpeg" alt="Speaker 1" class="img-fluid">
+              <img src="img/speakers/ConferenceImage.jpg" alt="Speaker 1" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Conference</a></h3>
-                <!-- <p>Quas alias incidunt</p> -->
-                <!-- <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div> -->
-                <br><br>
+                <br>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-5">
             <div class="speaker">
-              <img src="img/speakers/ProdLaunch.jpg" alt="Speaker 2" class="img-fluid" style="length:100%">
+              <img src="img/speakers/ProductLaunch.jpg" alt="Speaker 2" class="img-fluid" style="length:100%">
               <div class="details">
                 <h3><a href="speaker-details.html">Product Launch</a></h3>
-                <!-- <p>Consequuntur odio aut</p>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div> -->
-                <br><br>
+                <br>
               </div>
             </div>
           </div>
@@ -154,62 +140,37 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
               <img src="img/speakers/StageShow.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Show Event</a></h3>
-                <!-- <p>Fugiat laborum et</p> -->
-                <!-- <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div> -->
-                <br><br>
+                <br>
               </div>
             </div>
           </div>
-          <!-- <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
+              <img src="img/Speakers/CorporateEvent.jpg" alt="Speaker 4" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Jack Christiansen</a></h3>
-                <p>Debitis iure vero</p>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h3><a href="speaker-details.html">Corporte Events</a></h3>
+                <br>
               </div>
             </div>
-          </div> -->
-          <!-- <div class="col-lg-4 col-md-6">
+          </div>
+          <div class="col-lg-4 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
+              <img src="img/speakers/WeddingEvent.jpg" alt="Speaker 5" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Alejandrin Littel</a></h3>
-                <p>Qui molestiae natus</p>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h3><a href="speaker-details.html">Wedding Event</a></h3>
+                <br>
               </div>
             </div>
-          </div> -->
-          <!-- <div class="col-lg-4 col-md-6">
+          </div>
+          <div class="col-lg-4 col-md-6">
             <div class="speaker">
-              <img src="img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
+              <img src="img/speakers/ThemeParty.jpg" alt="Speaker 6" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Willow Trantow</a></h3>
-                <p>Non autem dicta</p>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h3><a href="speaker-details.html">Theme Parties</a></h3>
+                <br>
               </div>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>
 
@@ -218,7 +179,7 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
     <!--==========================
       Schedule Section
     ============================-->
-    <section id="schedule" class="section-with-bg">
+    <!-- <section id="schedule" class="section-with-bg">
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>Event Schedule</h2>
@@ -240,10 +201,10 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
         <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
           necessitatibus voluptatem quis labore perspiciatis quia.</h3>
 
-        <div class="tab-content row justify-content-center">
+        <div class="tab-content row justify-content-center"> -->
 
           <!-- Schdule Day 1 -->
-          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+          <!-- <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
               <div class="col-md-2"><time>09:30 AM</time></div>
@@ -319,11 +280,11 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
               </div>
             </div>
 
-          </div>
+          </div> -->
           <!-- End Schdule Day 1 -->
 
           <!-- Schdule Day 2 -->
-          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
+          <!-- <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
 
             <div class="row schedule-item">
               <div class="col-md-2"><time>10:00 AM</time></div>
@@ -391,11 +352,11 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
               </div>
             </div>
 
-          </div>
+          </div> -->
           <!-- End Schdule Day 2 -->
 
           <!-- Schdule Day 3 -->
-          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
+          <!-- <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
 
             <div class="row schedule-item">
               <div class="col-md-2"><time>10:00 AM</time></div>
@@ -463,14 +424,14 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
               </div>
             </div>
 
-          </div>
+          </div> -->
           <!-- End Schdule Day 2 -->
 
-        </div>
+        <!-- </div>
 
       </div>
 
-    </section>
+    </section> -->
 
     <!--==========================
       Venue Section
@@ -599,7 +560,7 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
               </div>
-              <p>0.4 Mile from the Venue</p>
+              <!-- <p>0.4 Mile from the Venue</p> -->
             </div>
           </div>
 
@@ -616,7 +577,7 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star-half-full"></i>
               </div>
-              <p>0.5 Mile from the Venue</p>
+              <!-- <p>0.5 Mile from the Venue</p> -->
             </div>
           </div>
 
@@ -632,7 +593,7 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
               </div>
-              <p>0.6 Mile from the Venue</p>
+              <!-- <p>0.6 Mile from the Venue</p> -->
             </div>
           </div>
 
@@ -673,7 +634,7 @@ Today, Prime events has been acknowledged as a pioneer in event management of Co
 
       <div class="container">
         <div class="section-header">
-          <h2>Sponsors</h2>
+          <h2>Collaborators</h2>
         </div>
 
         <div class="row no-gutters supporters-wrap clearfix">
